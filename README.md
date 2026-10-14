@@ -360,6 +360,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
 
 <br />
+- [jiangzhangcc-glitch/signals-api-mcp](https://github.com/jiangzhangcc-glitch/signals-api-mcp) - A daily AI signals feed for agents: today's signals (one per core source), what changed since the previous snapshot, and ranked AI models & repos. Every ranked row carries a ready-to-cite sentence; rows whose number cannot be derived are returned as unranked with the reason. Free, no API key, Python stdlib.
 
 ## 🤝 <a name="ai-services"></a>AI Services
 
